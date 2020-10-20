@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 March，1998，Spring.
+- 🌱 喜欢探索，擅长瞎搞，喜欢睡懒觉.
+- 😄 非计算机小白，喜欢探索计算机领域，然并卵.
+- ⚡ 曾经梦想征服星辰大海，后来却发现变成了一颗繁星.
+- 💬 中国 · 昆明
+- 📫 Email: me@senorui.com
+
 <!--
 **Senorui/Senorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
