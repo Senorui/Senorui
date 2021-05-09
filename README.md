@@ -5,7 +5,7 @@
 - 😄 喜欢探索，喜欢瞎搞，擅长睡懒觉.
 - ⚡ 非计算机专业的小白一枚，喜欢探索计算机领域，然并卵.
 - 💬 曾经梦想征服星辰大海，后来却发现自己只是变成了一颗繁星.
-- 📫 Email: <a href="https://mailhide.io/zh/e/NEZ4ZdKK " rel="external noopener noreferrer" target="_blank">Mail to Senorui</a>
+- 📫 Email: Senor@rui.ee
 
 <!--
 **Senorui/Senorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
